@@ -1,9 +1,18 @@
 
 operadores = 10 == 10
-
 print(operadores)
 
+operadores = 10 == 11
+print(operadores)
 
+operadores = 10 != 11
+print(operadores)
+
+operadores = 11 > 10
+print(operadores)
+
+operadores = 1 < 10
+print(operadores)
 
 
 
